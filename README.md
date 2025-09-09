@@ -1,4 +1,3 @@
-````markdown
 # 🤖 LangGraph Agent Builder
 
 **LangGraph Agent Builder** is an AI-powered **multi-agent system** built with [LangGraph](https://www.langchain.com/langgraph).  
@@ -72,12 +71,6 @@ flowchart TD
     Architect --> Coder[Coder Agent(s)]
     Coder --> Files[Generated Project Files]
 ```
-
----
-
-## 📜 License & Credits
-
-All rights reserved © Codebasics Inc.
 
 ---
 
