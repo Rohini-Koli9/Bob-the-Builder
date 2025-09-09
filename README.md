@@ -1,11 +1,11 @@
-# 🤖 LangGraph Agent Builder
+# LangGraph Agent Builder
 
 **LangGraph Agent Builder** is an AI-powered **multi-agent system** built with [LangGraph](https://www.langchain.com/langgraph).  
 It enables natural language requests to be transformed into working projects — file by file — by simulating a team of specialized AI agents.
 
 ---
 
-## 🧩 Agent Architecture
+## LangGraph Workflow - Agent Architecture
 
 - **Planner Agent** → Understands your request and creates a detailed plan.  
 - **Architect Agent** → Breaks the plan into concrete engineering tasks, with explicit context for each file.  
@@ -13,7 +13,7 @@ It enables natural language requests to be transformed into working projects —
 
 ---
 
-## ⚙️ Setup & Installation
+## ⚙ Setup & Installation
 
 ### Prerequisites
 - [uv](https://github.com/astral-sh/uv) installed  
@@ -30,7 +30,7 @@ It enables natural language requests to be transformed into working projects —
 
    ```bash
    uv pip install -r pyproject.toml
-   ```
+````
 
 3. **Set environment variables**
 
@@ -41,11 +41,11 @@ It enables natural language requests to be transformed into working projects —
 
    ```bash
    python main.py
-   ```
+   ````
 
 ---
 
-## 🧪 Example Prompts
+##  Example Prompts
 
 You can ask the agent system to build:
 
@@ -55,14 +55,14 @@ You can ask the agent system to build:
 
 ---
 
-## 📂 Tech Stack
+##  Tech Stack
 
-* **Python** 🐍
+* **Python** 
 * **LangGraph** (agent orchestration)
 
 ---
 
-## 📊 Agent Flow
+##  Agent Flow
 
 ```mermaid
 flowchart TD
@@ -74,7 +74,7 @@ flowchart TD
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -82,3 +82,4 @@ Contributions are welcome!
 * Submit pull requests with improvements
 
 ```
+
