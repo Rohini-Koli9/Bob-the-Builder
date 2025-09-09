@@ -1,8 +1,6 @@
 # LangGraph Agent Builder
 
-**LangGraph Agent Builder** is an AI-powered **multi-agent system** built with [LangGraph](https://www.langchain.com/langgraph).  
-It enables natural language requests to be transformed into working projects — file by file — by simulating a team of specialized AI agents.
-
+**LangGraph Agent Builder** is a **conversational AI agent** designed to transform natural language prompts into working projects. Built with [LangGraph](https://www.langchain.com/langgraph). for robust workflow management and leveraging **GroqCloud** for high-speed code generation, it can create a wide range of simple web apps and APIs, from to-do lists to FastAPI services.
 
 
 ## LangGraph Workflow - Agent Architecture
@@ -76,6 +74,7 @@ Contributions are welcome!
 * Submit pull requests with improvements
 
 ```
+
 
 
 
